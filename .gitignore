@@ -1,0 +1,13 @@
+# Arquivos fiscais e planilhas de clientes
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.txt
+*.zip
+*.pfx
+*.p12
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
